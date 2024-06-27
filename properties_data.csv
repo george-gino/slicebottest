@@ -1,0 +1,21 @@
+property_id,property_name,address,min_headcount,max_headcount,class,min_total_cost,max_total_cost
+1,Property 1,Cupertino,72,93,Class 4,6195,7328
+2,Property 2,Bellevue,34,89,Class 4,4468,6193
+3,Property 3,Seattle,54,63,Class 5,3648,5267
+4,Property 4,Kirkland,51,71,Class 3,1616,3159
+5,Property 5,Seattle,38,82,Class 4,1320,7659
+6,Property 6,Seattle,74,110,Class 4,2668,9847
+7,Property 7,Cupertino,28,122,Class 4,6428,6973
+8,Property 8,Kirkland,35,121,Class 4,3219,7130
+9,Property 9,Redmond,10,58,Class 4,1904,5828
+10,Property 10,Redmond,5,61,Class 3,3053,3181
+11,Property 11,Seattle,73,82,Class 2,4113,7418
+12,Property 12,Kirkland,15,25,Class 3,3925,9710
+13,Property 13,Cupertino,46,150,Class 5,874,5182
+14,Property 14,Cupertino,74,87,Class 5,597,6072
+15,Property 15,Bellevue,48,105,Class 5,2969,7969
+16,Property 16,Bellevue,52,78,Class 1,7070,7495
+17,Property 17,Bellevue,72,90,Class 1,5409,7797
+18,Property 18,Seattle,56,104,Class 2,746,4664
+19,Property 19,Redmond,38,70,Class 4,5059,7415
+20,Property 20,Cupertino,67,133,Class 1,5680,7037
